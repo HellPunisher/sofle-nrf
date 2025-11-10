@@ -14,8 +14,8 @@
 ---
 include:
   - board: nrfmicro_13
-    shield: sofle_choc_left
+    shield: soflechoc_left
   - board: nrfmicro_13
-    shield: sofle_choc_right
+    shield: soflechoc_right
   - board: nrfmicro_13
     shield: settings_reset
